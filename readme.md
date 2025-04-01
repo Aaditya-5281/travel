@@ -24,6 +24,9 @@ A powerful AI-powered travel planning application that creates personalized trav
 - OpenAI API key
 - pip (Python package manager)
 
+## Project Architecture
+![AI Travel Planner](travel/images/Screenshot%202025-04-01%20154310.png)
+
 ### Installation
 
 1. Clone the repository:
