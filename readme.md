@@ -25,7 +25,7 @@ A powerful AI-powered travel planning application that creates personalized trav
 - pip (Python package manager)
 
 ## Project Architecture
-![AI Travel Planner](travel/images/Screenshot%202025-04-01%20154310.png)
+![travel](travel/images/Screenshot_2025-04-01_154310.png)
 
 ### Installation
 
